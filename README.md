@@ -1,7 +1,7 @@
 # Système IA d'Analyse des Alertes de Cybersécurité Wazuh
 
 Projet de Fin d'Études  MIAGE L3  2025/2026  
-**Réalisé par :** GHISSASSI Yasmine  
+
 
 
 ##  Description
